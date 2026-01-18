@@ -7,6 +7,7 @@
       "path": "file_path",
       "type": "data",
       "author": "example_user",
+       "addonVersion": "1.0"
       "license": "GPL-2.0"
     }
   ]
